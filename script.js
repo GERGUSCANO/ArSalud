@@ -8,8 +8,8 @@ let cad = `
           <input type="text" name="contraseña" id="contraseña" placeholder="Ingrese su contraseña" maxlength="6">
           <br><br>
           <input type="submit" class="button" id="btn" name="btn" value="Ingresar">
-          <a href="../FRONTEND/form_registro.html"><p>¿Ya está registrado?</p></a>
-          <a href="../FRONTEND/recuperacion.html"><p>¿Olvidó su contraseña?</p></a>
+          <a href="../ArSalud/form_registro.html"><p>¿Ya está registrado?</p></a>
+          <a href="../ArSalud/recuperacion.html"><p>¿Olvidó su contraseña?</p></a>
         </form>
 </div>
 `
